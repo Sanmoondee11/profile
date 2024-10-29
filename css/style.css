@@ -1,0 +1,40 @@
+/* 全体のスタイルリセット */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* 基本スタイル */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #f4f4f4;
+}
+
+.header-title {
+  /* border: solid  1px #333;
+  border-left: none;
+  border-right: none; */
+  text-align: center;
+  color: #F0F0F3;
+  font-weight: bold;
+  font-size: 32px;
+  background-color: #9BA3CE;
+  position: sticky;
+  top: 0;
+  width: 100%;
+} 
+
+.nav-list{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+}
+
+.profile{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
