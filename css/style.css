@@ -12,6 +12,13 @@ body {
   background-color: #f4f4f4;
 }
 
+.header{
+  position: sticky;
+  top: 0;
+  width: 100%;
+  background-color: #F0F0F3;
+}
+
 .header-title {
   /* border: solid  1px #333;
   border-left: none;
@@ -21,9 +28,6 @@ body {
   font-weight: bold;
   font-size: 32px;
   background-color: #9BA3CE;
-  position: sticky;
-  top: 0;
-  width: 100%;
 } 
 
 .nav-list{
@@ -36,5 +40,10 @@ body {
 .profile{
   padding-left: 16px;
   padding-right: 16px;
+}
+
+.favorite{
+  padding-left: 16px;
+  padding-right: 16px; 
 }
 
