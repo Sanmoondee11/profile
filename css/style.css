@@ -38,12 +38,18 @@ body {
 }
 
 .profile{
+  text-align: center;
   padding-left: 16px;
   padding-right: 16px;
 }
 
 .favorite{
+  text-align: center;
   padding-left: 16px;
   padding-right: 16px; 
+}
+
+.footer-color{
+  background-color: #9BA3CE;
 }
 
