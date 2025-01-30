@@ -37,10 +37,21 @@ body {
   list-style: none;
 }
 
+.img{
+  display: flex;
+  align-items: center;
+  padding-top:2px;
+   width: 100%;
+
+}
+
+.container{
+width: 100%;
+}
+
 .profile{
+  width: 100%;
   text-align: center;
-  padding-left: 16px;
-  padding-right: 16px;
 }
 
 .favorite{
